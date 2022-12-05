@@ -36,6 +36,9 @@
 <h1>Use reinforcement learning to select battle skills automatically</h1>
 <h2>Build simulation project like OpenCV Gym</h2>
 <h2>Build the battle AI</h2>
+
+
+
 # Q1. How to select a skill figthing with other pokemon?
 ## Constraints
 ### 1. Limit 2 pokemons 
