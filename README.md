@@ -15,6 +15,12 @@
   - For user to analyze basic ability
 
 
+## Part B. Data Analysis II
+- 1. One turn kill
+- 2. Two turn kill
+- 3. Defend number
+- 4. Speed Analysis
+
 <h1>Extract Pokemon Data</h1>
 <h2>9th GEN Resources are from Github</h2>
 <a href="https://github.com/Ruimusume/PMSV">Please click here to check the recource link</a>
