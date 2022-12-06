@@ -1,6 +1,13 @@
 # pokemon
 <h2>The purpose of this project is to analyze the battle data of pokemons. For example, sending some quiries to server and select the most suitable pokemon in battle.</h2>
 <hr>
+
+## Libraries to install
+- requests
+- BeautifulSoup
+- re
+- pandas
+
 <h1>Extract Pokemon Data</h1>
 <h2>9th GEN Resources are from Github</h2>
 <a href="https://github.com/Ruimusume/PMSV">Please click here to check the recource link</a>
