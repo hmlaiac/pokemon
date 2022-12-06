@@ -1,6 +1,13 @@
 # pokemon
 <h2>The purpose of this project is to analyze the battle data of pokemons. For example, sending some quiries to server and select the most suitable pokemon in battle.</h2>
 <hr>
+
+## Libraries to install
+- requests
+- BeautifulSoup
+- re
+- pandas
+
 <h1>Extract Pokemon Data</h1>
 <h2>9th GEN Resources are from Github</h2>
 <a href="https://github.com/Ruimusume/PMSV">Please click here to check the recource link</a>
@@ -36,6 +43,9 @@
 <h1>Use reinforcement learning to select battle skills automatically</h1>
 <h2>Build simulation project like OpenCV Gym</h2>
 <h2>Build the battle AI</h2>
+
+
+
 # Q1. How to select a skill figthing with other pokemon?
 ## Constraints
 ### 1. Limit 2 pokemons 
