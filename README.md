@@ -8,6 +8,13 @@
 - re
 - pandas
 
+## Part A. Data Analysis and Extraction
+- [1. Please Refer to main.ipny to see analysis](https://github.com/hmlaiac/pokemon/blob/main/main.ipynb)
+- [2. If want download data only. Please click here](https://github.com/hmlaiac/pokemon/tree/main/output)
+  - poke_info.csv: include EVs, attributes, name of pokemon
+  - For user to analyze basic ability
+
+
 <h1>Extract Pokemon Data</h1>
 <h2>9th GEN Resources are from Github</h2>
 <a href="https://github.com/Ruimusume/PMSV">Please click here to check the recource link</a>
